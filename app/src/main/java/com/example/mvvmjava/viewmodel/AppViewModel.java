@@ -21,7 +21,7 @@ public class AppViewModel extends BaseObservable {
 
     @Bindable
     // string variable for
-    // toast message1
+    // toast message
     private String toastMessage = null;
 
     // getter and setter methods
