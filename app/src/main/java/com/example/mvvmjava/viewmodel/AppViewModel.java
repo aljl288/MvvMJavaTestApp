@@ -16,6 +16,7 @@ public class AppViewModel extends BaseObservable {
 
     // string variables for
     // toast messages
+    // toast messages
     private String successMessage = "Login successful";
     private String errorMessage = "Email or Password is not valid";
 
