@@ -16,12 +16,12 @@ public class AppViewModel extends BaseObservable {
 
     // string variables for
     // toast messages
-    // toast messages2
     private String successMessage = "Login successful";
     private String errorMessage = "Email or Password is not valid";
 
     @Bindable
     // string variable for
+    // toast message
     // toast message
     private String toastMessage = null;
 
