@@ -26,6 +26,7 @@ public class AppViewModel extends BaseObservable {
 
     // getter and setter methods
     // for toast message
+    //helo
     public String getToastMessage() {
         return toastMessage;
     }
