@@ -23,7 +23,7 @@ public class AppViewModel extends BaseObservable {
     // string variable for
     // toast message
     // toast message
-    // hello branch1
+    // hello branch11
     private String toastMessage = null;
 
     // getter and setter methods
